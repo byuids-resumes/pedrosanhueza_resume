@@ -1,8 +1,8 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Pedro Sanhueza's Resume
 ---
-# Brigham Young
+# Brigham Young University - Idaho
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
