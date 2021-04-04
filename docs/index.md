@@ -18,9 +18,9 @@ College Student at Brigham Young University - Idaho
 
 ## Education
 
-__Brigham Young University - Idaho__, Rexburg, ID       `Expected by 2023`/n
-Major: Business Analytics/n
-Minor: Data Science
+__Brigham Young University - Idaho__, Rexburg, ID       `Expected by 2023`
+* Major: Business Analytics/n
+* Minor: Data Science
 
 ## Experience
 
