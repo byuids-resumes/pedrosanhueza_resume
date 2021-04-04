@@ -18,32 +18,31 @@ College Student at Brigham Young University - Idaho
 
 ## Education
 
-`Expected by 2023`
-__Brigham Young University - Idaho__, Rexburg, ID
+__Brigham Young University - Idaho__, Rexburg, ID       `Expected by 2023`
 Major: Business Analytics
 Minor: Data Science
 
 ## Experience
 
 BYU-I Support Center
-•	Member of the Emails and Live-Chat teams				         `April 2020 – Present`
+* Member of the Emails and Live-Chat teams				         `April 2020 – Present`
 
 ## SKILLS
  
-•	Spanish (native) and English (conversational fluency).
-•	Microsoft Excel (advanced level).
-•	Proficient intermediate in Python, C++, and JavaScript.
+* Spanish (native) and English (conversational fluency).
+* Microsoft Excel (advanced level).
+* Proficient intermediate in Python, C++, and JavaScript.
 
 ## Service and Work History
  
 _While on High School_
 Event management committee member.
-•	Leadership skills in young adult community.
-•	Organize big events, experience with meetings and small presentations.
+* Leadership skills in young adult community.
+* Organize big events, experience with meetings and small presentations.
 
 _Vice-president of the Student Government__ (2013 - 2014).
-•	Excellent interpersonal skills.
-•	Experience giving talks and multiple expositions.
+* Excellent interpersonal skills.
+* Experience giving talks and multiple expositions.
 
 _Full-Time Missionary in New Jersey_                         `June 2016 - June 2018`
 
